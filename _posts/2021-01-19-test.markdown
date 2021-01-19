@@ -3,7 +3,6 @@ layout: post
 title: "2021/01/19"
 date:  2021/01/19
 categories: weekly blog
-publishe: false
 ---
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
