@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a mathematics student at Imperial College London. I still do not know what
+sort of math interests me.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Last year I did a UROP and learnt about the Riemann-Roch theorem. You cannot
+find my writeup for this because I never put it online.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This year I will probably do a UROP on D-modules. More on that to come.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Mathematical things I like include stacks, some subset of representation
+theory, and arithmetic questions (only the questions).
