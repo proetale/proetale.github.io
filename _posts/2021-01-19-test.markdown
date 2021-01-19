@@ -6,10 +6,10 @@ categories: weekly blog
 ---
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
-This is not actually the weekly blog. I am just testing \latex.
+This is not actually the weekly blog. I am just testing $$\latex$$.
 
-Consider the etale fundamental group $\pi_1(X =
-\mathrm{lim}_\rightarrow~\mathrm{Aut}~X_n$ where we have chosen finite etale
-galois maps $p:Y\rightarrow X$ which we consider our covering spaces in the
+Consider the etale fundamental group $$\pi_1(X =
+\mathrm{lim}_\rightarrow~\mathrm{Aut}~X_n$$ where we have chosen finite etale
+galois maps $$p:Y\rightarrow X$$ which we consider our covering spaces in the
 sense of algebraic topology. We compute the first example of
 $$\pi_1(\mathbb{A}^1\setminus\{0\}) = \hat{Z}.$$
