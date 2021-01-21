@@ -1,0 +1,9 @@
+---
+layout: post
+title: "2021/01/21"
+date: 2021/01/19
+categories: weekly blog
+---
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+Another test. $G(\Gamma G)$ as compared to $$\Delta_M\circ\phi$$.
